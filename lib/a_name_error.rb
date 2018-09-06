@@ -1,3 +1,3 @@
-"hello world"
+let x = "hello world"
 
-hello_world
+puts hello_world
