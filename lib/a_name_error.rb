@@ -1,3 +1,3 @@
-var x = "hello world"
+"hello world"
 
 hello_world
